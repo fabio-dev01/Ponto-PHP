@@ -1,0 +1,18 @@
+#navbar a{
+	font-size: 20px;
+	padding:35px;
+}
+#navbar a:hover{
+	font-size: 20.5px;
+	padding:34px;
+	-webkit-transition:0.1s;
+}
+#form-key{
+	height:20%;
+	font-size:40px;
+}
+#btn-entrar{
+	height:10%;
+	width:100%;
+	font-size:34px;
+}
